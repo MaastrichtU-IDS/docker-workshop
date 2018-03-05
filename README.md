@@ -1,6 +1,6 @@
 # Docker for Data Science
 
-![ids-net](img/ids-net.png)
+![](img/ids-net.png)
 
 Containers have emerged in the Cloud and made it possible to utilize hardware infrastructure in the most flexible and efficient way. Containers make it possible to run whole application stacks from a single configuration file. The Institute of Data Science is already making use of this container infrastructure and we would like to share our knowledge.
 
@@ -23,7 +23,7 @@ The target audience are UM staff who are dealing with IT infrastructure or any o
 
 ## Sources
 
-![docker](img/docker.png)
+![](img/docker.png)
 
 - Installing [Docker](https://www.docker.com/) for [Mac](https://docs.docker.com/docker-for-mac/install/) and [Windows](https://docs.docker.com/docker-for-windows/install/download-docker-for-windows)
 
