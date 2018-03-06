@@ -40,6 +40,8 @@ The target audience are UM staff who are dealing with IT infrastructure or any o
 
 - What is Docker in the words of its founder Solomon Hykes video [here](https://www.youtube.com/watch?v=3N3n9FzebAA)
 
+- [Docker Hub Top 10](https://www.ctl.io/developers/blog/post/docker-hub-top-10/)
+
 ## Acknowledgments
 
 - [EDLAB Maastricht University](https://edlab.nl/)
