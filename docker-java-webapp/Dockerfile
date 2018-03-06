@@ -9,8 +9,8 @@ WORKDIR $APP_DIR
 
 COPY . .
 
-RUN mvn clean build
+RUN mvn clean package
 
 EXPOSE 8080
 
-ENTRYPOINT ["java", "-jar", "target/gs-serving-web-content-0.1.0.jar"]
+ENTRYPOINT ["java", "-jar", "target/DynamicWebApp-0.0.1-SNAPSHOT.jar"]
