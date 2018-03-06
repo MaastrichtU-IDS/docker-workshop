@@ -43,8 +43,7 @@ The target audience are UM staff who are dealing with IT infrastructure or any o
 - [Docker Hub Top 10](https://www.ctl.io/developers/blog/post/docker-hub-top-10/)
 
 ## Feedback
-[Feedback form](https://goo.gl/forms/Ymp9r6yPNZvB74xU2)
->>>>>>> 291fc1733683d2f8c2526191ba1d0f082b77cc25
+[Feedback Form](https://goo.gl/forms/Ymp9r6yPNZvB74xU2)
 
 ## Acknowledgments
 
