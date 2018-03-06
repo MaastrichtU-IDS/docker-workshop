@@ -13,4 +13,4 @@ RUN mvn clean package
 
 EXPOSE 8080
 
-ENTRYPOINT ["java", "-jar", "target/DynamicWebApp-0.0.1-SNAPSHOT.jar"]
+ENTRYPOINT ["java", "-jar", "target/DynamicWebApp.jar"]
